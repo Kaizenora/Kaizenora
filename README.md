@@ -1,3 +1,9 @@
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F1F1F1&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
+
 # 💫 About Me:
 Hey, I'm Sidharth Gadhave 👋<br>About me<br><br>I'm an Electronics & Telecommunication Engineering student who somehow ended up spending most of his time building software. 😭<br><br>I like taking random ideas, turning them into actual products, and figuring things out along the way.<br><br>🚀 I build SaaS & digital products — from idea → prototype → deployment.<br>💻 I enjoy working with full-stack development, AI, APIs and modern web technologies.<br>🛠️ Always working on a project — if there's an interesting idea, I'll probably try building it.<br>💼 Freelancer — I build websites for people/businesses and help turn ideas into working products.<br>🧠 I learn mostly by building rather than watching 10-hour tutorials.<br>⚡ I like experimenting with AI, automation and anything that can make a product smarter.<br>🎯 Currently trying to get better at software engineering, product building and entrepreneurship.<br>🎮 Outside of coding, I'm probably either working on something, discovering something random, or doing absolutely nothing.<br><br>Build it. Break it. Fix it. Ship it. Repeat.<br><br>📩 Want to work together or have an idea worth building? Hit me up.<br>       at: kaizenoraofficial@gmail.com
 
